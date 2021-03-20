@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atefc/unit-test-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atefc/unit-test-jest/issues"
+  },
+  "homepage": "https://github.com/atefc/unit-test-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {}
+}
