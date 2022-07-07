@@ -5,8 +5,8 @@ Un utilisateur peut choisir plusieurs opérations selon le menu.
 
 ## Conditions préalables
 
-1- Java (version 11)
-2- Intellij IDEA
+1. Java (version 11)
+2. Intellij IDEA
 
 ## installation
 
@@ -18,9 +18,9 @@ git clone https://github.com/Eya1001/untitled.git
  2- javac Universite.java
 
 #  Demarrer l'application via l'IDE
-1- Aller à src/
-2- Sélectionner le fichier universite.java
-3- Cliquer sur run
+1. Aller à src/
+2. Sélectionner le fichier universite.java
+3. Cliquer sur run
        
   Il y a des données prêtes d'activités et matières
   Au démarrage de l'application, l'université propose un menu principal. 
