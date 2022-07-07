@@ -1,6 +1,6 @@
 # Système d'emploi du temps de DATASPHERA (Une université privée) pour les étudiants
 
-Dans ce programme il y a deux menus: université et étudiant.
+Dans ce programme il y a deux menus: université et étudiant.  
 Un utilisateur peut choisir plusieurs opérations selon le menu.
 
 ## Conditions préalables
